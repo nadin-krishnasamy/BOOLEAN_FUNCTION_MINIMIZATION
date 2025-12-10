@@ -47,7 +47,7 @@ Developed by: NADIN KRISHNASAMY B / RegisterNumber: 25016795
 
 **Timing Diagram**
 
-![EXP 2](https://github.com/user-attachments/assets/1f0397dc-f36c-4916-a6a3-beda55794025)
+![EXP 2](https://github.com/user-attachments/assets/a1e74d77-9a33-4dbc-8889-a22501a20b93)
 
 **Result:**
 
